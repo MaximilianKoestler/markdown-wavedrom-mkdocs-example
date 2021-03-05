@@ -1,0 +1,8 @@
+# Python environment
+venv*/
+
+# Editors
+.vscode/
+
+# Build results
+site/
