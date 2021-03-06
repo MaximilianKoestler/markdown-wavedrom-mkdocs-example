@@ -1,4 +1,6 @@
 site_name: Markdown WaveDrom Example
+repo_url: https://github.com/MaximilianKoestler/markdown-wavedrom-mkdocs-example
+repo_name: Sources on GitHub
 
 theme:
   name: material
